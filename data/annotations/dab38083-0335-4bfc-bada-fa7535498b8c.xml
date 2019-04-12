@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>dab38083-0335-4bfc-bada-fa7535498b8c.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>wand</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>452</xmin>
+            <ymin>144</ymin>
+            <xmax>487</xmax>
+            <ymax>178</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wand</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>101</xmin>
+            <ymin>182</ymin>
+            <xmax>147</xmax>
+            <ymax>221</ymax>
+        </bndbox>
+    </object>
+</annotation>

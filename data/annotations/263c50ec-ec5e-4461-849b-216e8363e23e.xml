@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>263c50ec-ec5e-4461-849b-216e8363e23e.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>wand</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>525</xmin>
+            <ymin>126</ymin>
+            <xmax>550</xmax>
+            <ymax>147</ymax>
+        </bndbox>
+    </object>
+</annotation>

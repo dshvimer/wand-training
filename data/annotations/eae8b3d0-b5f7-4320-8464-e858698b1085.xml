@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>eae8b3d0-b5f7-4320-8464-e858698b1085.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>wand</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>52</xmin>
+            <ymin>199</ymin>
+            <xmax>97</xmax>
+            <ymax>238</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wand</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>275</xmin>
+            <ymin>212</ymin>
+            <xmax>315</xmax>
+            <ymax>249</ymax>
+        </bndbox>
+    </object>
+</annotation>
