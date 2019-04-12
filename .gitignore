@@ -1,1 +1,7 @@
 *.pem
+*.record
+models/
+cocoapi/
+ssd_mobilenet_v2_wand/
+data/*.tar.gz
+data/ssd_mobilenet_v2_coco_2018_03_29
