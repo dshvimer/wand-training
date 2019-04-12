@@ -16,8 +16,10 @@ if [ ! -d "cocoapi/" ]; then
 fi
 
 cd data/
-wget http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v2_coco_2018_03_29.tar.gz
-tar -xvf ssd_mobilenet_v2_coco_2018_03_29.tar.gz
+if [ ! -d "ssd_mobilenet_v2_coco_2018_03_29/" ]; then
+  wget http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v2_coco_2018_03_29.tar.gz
+  tar -xvf ssd_mobilenet_v2_coco_2018_03_29.tar.gz
+fi
 cd ../
 
 cd models/research/
