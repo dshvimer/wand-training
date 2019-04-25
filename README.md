@@ -1,6 +1,6 @@
 # What this is for
 
-Basically a boilerplate project for training object detection models with Tensorflows Object Detection API.
+Used for senior design project in which we created a mixed reality musical instrument. Now it's basically a boilerplate project for training object detection models with Tensorflows Object Detection API.
 
 Requirements:
 1. Tensorflow installed
